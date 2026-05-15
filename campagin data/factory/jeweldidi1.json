@@ -1,0 +1,15 @@
+{
+	"name": "jeweldidi1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d8ec29e3-a892-4c0c-a4cd-73b81c6592bb",
+		"tenantId": "e50a0f4c-6c19-42aa-afb6-28d173f6366f"
+	}
+}
