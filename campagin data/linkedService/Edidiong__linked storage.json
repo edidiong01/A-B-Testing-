@@ -1,0 +1,10 @@
+{
+	"name": "Edidiong__linked storage",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://azuredidi1.blob.core.windows.net"
+		}
+	}
+}
